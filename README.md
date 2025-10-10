@@ -2,11 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Naz1k1!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There!" />
 </p>
-
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Custom Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=✨励志成为全栈工程师(不是);小科姐姐祝您生活愉快!✨" alt="Typing SVG" />
-</p>
+  <strong>✨ 励志成为全栈工程师(不是) | 小科姐姐祝您生活愉快 ✨</strong>
+</p
 
 <br/>
 
@@ -18,9 +17,6 @@
   <!-- Skill Icons -->
   <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" alt="Skills" width="500" />
 </p>
-
-
-
 <br/>
 
 <!-- Divider -->
