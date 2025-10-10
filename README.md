@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naz1K1&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" width="400" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" alt="Skills" width="500" />
+  <img src="https://skillicons.dev/icons?i=java,spring,node,vue,js,tailwind&theme=light" alt="Skills" width="500" />
 </p>
 <br/>
 
