@@ -22,5 +22,5 @@
 <!-- Divider -->
 <div align="center">
   <hr width="80%" style="opacity:0.2">
-  <p><em> Keep coding, keep creating. `</em></p>
+  <p><em> Keep coding, keep creating.</em></p>
 </div>
