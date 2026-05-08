@@ -4,7 +4,7 @@
 </p>
 <!-- Custom Message -->
 <p align="center">
-  <strong>✨ 励志成为全栈工程师(不是) | 小科姐姐祝您生活愉快 ✨</strong>
+  <strong>✨ 小科姐姐祝您生活愉快 ✨</strong>
 </p
 
 <br/>
